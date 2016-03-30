@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "test": "./node_modules/.bin/karma start"
+  },
   "devDependencies": {
     "chai": "^1.9.1",
     "grunt": "^0.4.5",
